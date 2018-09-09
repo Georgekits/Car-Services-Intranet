@@ -16,6 +16,7 @@ USERS:
   
   
 SERVICES:
+
   By providing the data you want to store to the database, you can keep track of cars entering the system, their service status and the     date they have to come back for another inspection.
   In other words, the JAVA API that have has been set can:
       --> Return you a Client Object with all the information you keep through the UI.
