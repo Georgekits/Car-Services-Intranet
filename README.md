@@ -27,3 +27,5 @@ SERVICES:
       --> Make an appointment with the Engineer for a typical vehicle inspection.
       
       --> Check if the car's plate exists in the National Car Database System.
+
+Technologies used: Java, Spring Framework, Hibernate Framework, HQL, JSP, JavaScript, CSS3.
