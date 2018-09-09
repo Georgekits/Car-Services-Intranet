@@ -7,10 +7,13 @@ RUN SETUP:
   - Finally, right click on the project -> Run As -> Run on Server.
   
 ABOUT:
+
   It is about a Car Service Managment System. To be more precise, vehicle inspection is a procedure mandated by national or subnational     governments in many countries, in which a vehicle is inspected to ensure that it conforms to regulations governing safety, emissions, or   both.
 
 USERS: 
+
   The users that can enter the intranet system are the Administrator, a Secretary and an Engineer. The Administrator can only be created     from an sql query. The other two can be added from the UI.
+  
   
 SERVICES:
   By providing the data you want to store to the database, you can keep track of cars entering the system, their service status and the     date they have to come back for another inspection.
