@@ -22,9 +22,9 @@ import java.sql.*;
 	         */
 	        protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 	                // setup connection variables
-	                String jdbcUrl = "jdbc:mysql://83.212.105.20/it21520?useSSL=false";
-	                String user = "it21520";
-	                String pass = "m%92m07h";
+	                String jdbcUrl = "";
+	                String user = "";
+	                String pass = "";
 	                String driver= "com.mysql.jdbc.Driver";
 	                
 	                // get connection to DB
