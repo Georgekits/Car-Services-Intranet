@@ -1,5 +1,9 @@
 Car Services System
 
+DATABASE CONFIGURATION:
+  -Inside src folder, search jdbc.properties file and fill your database credentials.
+  -The car-services.sql file has all the tables needed to run this project.
+
 RUN SETUP:
   - Clone the project or download the zip file.
   - Open it through an IDE (e.g. Eclipse JEE).
